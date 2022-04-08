@@ -8,7 +8,7 @@
 - 🎸 Curiosidade sobre mim: Sou um músico amador.
 
 
-     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 - 👨‍💻 I’m currently studying to become a technology professional, with a focus on web and mobile application development.
 - 💻 I'm learning programming languages, markup and libraries, some of them being: HTML5, CSS, JavaScript, React, express, Angular, React Native, BootStrap, Jquery among      others.
 - 👯 I’m looking to help other people with my knowledges.
